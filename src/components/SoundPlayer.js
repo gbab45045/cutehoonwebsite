@@ -10,11 +10,11 @@ function SoundPlayer() {
   const progressIntervalRef = useRef(null);
 
   const getRandomSound = () => {
-    const sounds = ['1.mp3', '2.mp3', '3.mp3', '4.mp3', '5.mp3', '6.mp3', "7.mp3"];
+    const sounds = ['1.mp3', '2.mp3', '3.mp3', '4.mp3', '5.mp3', '6.mp3', '7.mp3'];
     const randomIndex = Math.floor(Math.random() * sounds.length);
-    return `/audio/${sounds[randomIndex]}`;
+    return `/audio/${sounds[randomIndex]}`; //  '/audio/...'  절대 경로 스타일
   };
-
+  
   const handlePlayClick = () => {
     setIsButtonAnimating(true);
     setTimeout(() => {
