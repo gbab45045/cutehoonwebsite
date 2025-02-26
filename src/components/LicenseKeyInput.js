@@ -48,7 +48,7 @@ function LicenseKeyInput({ onValidation }) {
 
   return (
     <div>
-      <h2>윤시훈을 위한 웹사이트</h2>
+      <h2>윤시훈을 위한 웹사이트 ㅋ</h2>
       <input
         ref={inputRef}
         type="text"
