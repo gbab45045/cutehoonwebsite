@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cutehoonwebsite/static/css/main.7d582f68.css",
+    "main.js": "/cutehoonwebsite/static/js/main.97ee832f.js",
+    "static/js/453.195b869a.chunk.js": "/cutehoonwebsite/static/js/453.195b869a.chunk.js",
+    "index.html": "/cutehoonwebsite/index.html",
+    "main.7d582f68.css.map": "/cutehoonwebsite/static/css/main.7d582f68.css.map",
+    "main.97ee832f.js.map": "/cutehoonwebsite/static/js/main.97ee832f.js.map",
+    "453.195b869a.chunk.js.map": "/cutehoonwebsite/static/js/453.195b869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d582f68.css",
+    "static/js/main.97ee832f.js"
+  ]
+}
